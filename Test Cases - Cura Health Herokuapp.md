@@ -203,3 +203,4 @@ NEGATIVE TEST CASES:
 <tr><td colspan="4">Comment* - In a step 9 there is a bug. The user can select a date in the past and Make an Appointment in the past.</td></tr>
 </table>
 
+https://drive.google.com/drive/folders/1FdKL3mCU6pHU2gx-PCuPeTAP19JHxkFN?usp=drive_link
